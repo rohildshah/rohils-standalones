@@ -56,4 +56,3 @@ while a == b:
         alex.pensize(key)
     if key == "exit":
         turtle.bye()
-        return
