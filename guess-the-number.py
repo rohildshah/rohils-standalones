@@ -18,9 +18,9 @@ while a == b:
     guess = int(guess)
     if guess == number:
         print("You got it correct! Restart the program to play another game")
-         return
+        return
     elif guess > number:
-         print("Good guess, but smaller")
+        print("Good guess, but smaller")
     elif guess < number:
         print("Good guess, but larger")
 
