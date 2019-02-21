@@ -2,7 +2,7 @@ PImage rose;
 
 void setup() {
   size(500, 331);
-  rose = loadImage("img3.jpeg");
+  rose = loadImage("img3.jpeg"); //desired image must be in the data folder of the sketch (see README.md)
   rose.resize(500,331);
   frameRate(1000000000);
 }
