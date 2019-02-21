@@ -98,5 +98,13 @@ A simple demonstration of how the masking function works with Processing 3. Your
 3. Open the .zip file and open any project
 4. Go to `Run > Run Project` or hit F5
 
+### (.pde) Files
+1. Download Processing 3 (Link below)
+2. Download this repository (.zip) using the "Clone or download" button at the top
+3. Unzip the .zip file
+4. Open the .pde file you want using the Processing 3 application
+
 ## Downloads
-IDLE: https://www.python.org/downloads/
+IDLE (Python): https://www.python.org/downloads/
+
+Processing 3: https://processing.org/download/
