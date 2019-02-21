@@ -106,7 +106,16 @@ File Type: Processing 3 (.pde)
 
 Ideal Platform: Processing 3
 
-An interesting proof of concept where an image is taken, and a backwards explosion on that image results. Works by taking individual pixels from the image, then drawing slightly larger circles with the same color value on that pixel's spot on the screen. After a while, the image will begin to show itself.
+An interesting proof of concept where an image is taken, and a backwards explosion on that image results. Works by taking individual pixels from the image, then drawing slightly larger circles with the same color value on that pixel's spot on the screen. After a while, the image will begin to show itself. Your referenced images must be located within the data folder of the sketch. Find help [here](https://processing.org/examples/loaddisplayimage.html) or [here](https://processing.org/reference/).
+
+--
+
+### fourquadrants:
+File Tyoe: Processing 3 (.pde)
+
+Ideal Platform: Processing 3
+
+Takes an image and produces the same image, but with different color tints for each quadrant of the image. Your referenced images must be located within the data folder of the sketch. Find help [here](https://processing.org/examples/loaddisplayimage.html) or [here](https://processing.org/reference/).
 
 ## How to run on your computer
 **Tested on Mac OS; this _may_ work on Windows as well**
