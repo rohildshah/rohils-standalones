@@ -111,11 +111,19 @@ An interesting proof of concept where an image is taken, and a backwards explosi
 --
 
 ### fourquadrants:
-File Tyoe: Processing 3 (.pde)
+File Type: Processing 3 (.pde)
 
 Ideal Platform: Processing 3
 
 Takes an image and produces the same image, but with different color tints for each quadrant of the image. Your referenced images must be located within the data folder of the sketch. Find help [here](https://processing.org/examples/loaddisplayimage.html) or [here](https://processing.org/reference/).
+
+--
+### largepixelfight:
+File Type: Processing 3 (.pde)
+
+Ideal Platform: Processing 3
+
+A fight between all colors of the grayscale gradient to gain control of the screen. See a sped-up video of the battle [here](https://www.youtube.com/watch?v=r_qA5w8UmEY).
 
 ## How to run on your computer
 **Tested on Mac OS; this _may_ work on Windows as well**
