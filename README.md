@@ -99,6 +99,9 @@ Ideal Platform: Processing 3
 
 A simple demonstration of how to make static appear on top of an image in Processing 3. Your referenced images must be located within the data folder of the sketch. Find help [here](https://processing.org/examples/loaddisplayimage.html) or [here](https://processing.org/reference/).
 
+--
+
+### explode:
 
 ## How to run on your computer
 **Tested on Mac OS; this _may_ work on Windows as well**
