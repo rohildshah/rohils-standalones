@@ -88,7 +88,7 @@ File Type: Processing 3 (.pde)
 
 Ideal Platform: Processing 3
 
-A simple demonstration of how the masking function works with Processing 3. Your referenced images must be located within the data folder of the sketch. Find help (here)[https://processing.org/examples/loaddisplayimage.html] or (here)[https://processing.org/reference/].
+A simple demonstration of how the masking function works with Processing 3. Your referenced images must be located within the data folder of the sketch. Find help [here](https://processing.org/examples/loaddisplayimage.html) or [here](https://processing.org/reference/).
 
 ## How to run on your computer
 **Tested on Mac OS; this _may_ work on Windows as well**
