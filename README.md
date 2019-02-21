@@ -136,7 +136,7 @@ Ideal Platform: Processing 3
 A battle between the colors black and white to gain control of the screen. See a sped-up video of the battle [here](https://www.youtube.com/watch?v=_d-RqsLUvFM).
 
 ## How to run on your computer
-**Tested on Mac OS; this _may_ work on Windows as well**
+**Tested on Mac OS; this _may_ work on Windows as well.**
 ### (.py) Files
 1. Download python (Link below)
 2. Download this repository (.zip) using the "Clone or download" button at the top
