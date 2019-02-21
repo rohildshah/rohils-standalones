@@ -102,6 +102,11 @@ A simple demonstration of how to make static appear on top of an image in Proces
 --
 
 ### explode:
+File Type: Processing 3 (.pde)
+
+Ideal Platform: Processing 3
+
+An interesting proof of concept where an image is taken, and a backwards explosion on that image results. Works by taking individual pixels from the image, then drawing slightly larger circles with the same color value on that pixel's spot on the screen. After a while, the image will begin to show itself.
 
 ## How to run on your computer
 **Tested on Mac OS; this _may_ work on Windows as well**
