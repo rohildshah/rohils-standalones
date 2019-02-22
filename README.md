@@ -1,5 +1,5 @@
 # standalones
-A collection of my standalone projects. Please refer to my other repositories to view my more complicated projects.
+A collection of my standalone projects. Please refer to my other repositories to view my more complicated projects. Find documentation on the [wiki](https://github.com/rohildshah/standalones/wiki).
 
 ## File Information:
 
